@@ -1,0 +1,10 @@
+{
+  "name": "GreenScan AI",
+  "short_name": "GreenScan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f7f4",
+  "theme_color": "#0d7658",
+  "lang": "en",
+  "description": "AI-assisted recycling guide for San José, California"
+}
